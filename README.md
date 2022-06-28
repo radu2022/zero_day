@@ -1,3 +1,6 @@
+<div class="align-items-center d-flex flex-wrap gap-3 my-2"><span class="label label-primary" style="font-size: 14px;">DevOps</span><span class="label label-primary" style="font-size: 14px;">Shell</span><span class="label label-primary" style="font-size: 14px;">Bash</span></div>
+
+
 # Introduction
 - Add your project logo.
 - Write a short introduction to the project.
