@@ -1,8 +1,9 @@
+# Introduction
+- Add your project logo.
+- Write a short introduction to the project.
+- If you are using badges, add them here.
 
-###                           Read Me!
-
-
-## Hi, I'm Seid!
+## :ledger: Index
 
 I'm a Software Engineering studentat ALX Africa, and I am from Addis Ababa, Ethiopia.
 
